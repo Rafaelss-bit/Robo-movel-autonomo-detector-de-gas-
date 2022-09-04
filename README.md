@@ -1,2 +1,2 @@
 # Robo-movel-autonomo-detector-de-gas-
-Construção de um robô móvel autônomo detector de gás com tecnologia LoRa para comunicação, além disso enquanto robô se locomove é feita a estimação de seu deslocamento por meio de odometria. Os dados são enviados e analisados no servidor ThingSpeak
+Building an autonomous mobile gas-detecting robot with LoRa technology for communication, and while the robot is moving, its displacement is estimated by means of odometry. The data is sent to and analyzed by the ThingSpeak server
